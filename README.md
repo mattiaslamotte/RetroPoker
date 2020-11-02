@@ -15,7 +15,7 @@ You can also run the server on your own machine. There's a video on the google d
 
 If you want to set up your own server, you need to manually change the IP address of the server in the source code (just search for IP= around line 40). 
 
-If you are brave enough to run the executable, the mac version is in a zip file format. You will need to do <ctrl> click to open it (otherwise it wll tell you that security settings prevent this type of file to be opened). On the windows .exe file, there's also a warning but if you click "more info" in the warning dialog box, it then gives you the option to "run anyway". 
+If you are brave enough to run the executable, the mac version is in a zip file format. You will need to do ctrl-click to open it (otherwise it will tell you that security settings prevent this type of file to be opened). On the windows .exe file, there's also a warning but if you click "more info" in the warning dialog box, it then gives you the option to "run anyway". 
 
 Have Fun!
 
