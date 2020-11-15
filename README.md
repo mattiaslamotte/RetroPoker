@@ -17,6 +17,8 @@ If you run the source code, you will need to have Python 3.5 or upwards installe
 
 While downloading python and running the source code on windows is a piece of cake, it's a bit more complicated on Macs as the default version of Python is the pre-installed python 2.7 version. Usually, Macs should have HomeBrew pre-installed, and you can simply type "brew switch python 3.9.0" in Terminal to upgrade your default Python to its latest version.
 
+Running the source code in versions 4 and up require you to download the card images in the zip file and put them in the same folder as where the application is. The executable files automatically package the images as binaries, so it's a lot easier to just play with the executables.
+
 Have Fun!
 
 Mattias
