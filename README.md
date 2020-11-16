@@ -22,3 +22,7 @@ Running the source code in versions 4 and up require you to download the card im
 Have Fun!
 
 Mattias
+
+<p><br></p>
+
+<p align="center"><img src="https://github.com/mattiaslamotte/RetroPoker/blob/master/Retropoker4ScreenShotMac.png" alt="screenshot" width="800"> </p>
