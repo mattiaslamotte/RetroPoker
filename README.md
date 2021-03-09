@@ -1,7 +1,10 @@
 # RetroPoker
 RetroPoker is a Texas Hold'em client/server application written in Python 3.6. The server is running on an Azure VM and can be tested by launching either the Windows or MacOS client.  
 
-video demo and client.exe files can be found here:
+YouTube Video Demo:
+https://youtu.be/uUDk8ltWZeo
+
+client.exe files for Mac and Windows can be downloaded above by clicking the zip/exe file, or on this google drive:
 https://drive.google.com/drive/folders/1NFoF7Ac0XchOLYRQ6jj7d6yfRQ8tTcXr?usp=sharing
 
 server.exe and videos can be found on Google drive: 
